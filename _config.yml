@@ -1,20 +1,20 @@
-remote_theme : StartBootstrap/startbootstrap-clean-blog-jekyll
-title:              Clean Blog
+remote_theme :      StartBootstrap/startbootstrap-clean-blog-jekyll
+title:              JuhyunSon
 email:              juhyunson1227@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        Juhyun Son's blog
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "" #/startbootstrap-clean-blog-jekyll
 url:                "https://juhyunson.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:  
+github_username:    juhyunson
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:  juhyunson
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   #UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
