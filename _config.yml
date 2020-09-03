@@ -1,8 +1,8 @@
 remote_theme :      StartBootstrap/startbootstrap-clean-blog-jekyll
-title:              JuhyunSon
+title:              Engineer's Blog
 email:              juhyunson1227@gmail.com
-description:        Juhyun Son's blog
-author:             Start Bootstrap
+description:        Engineer's Blog
+author:             JH
 baseurl:            "" #/startbootstrap-clean-blog-jekyll
 url:                "https://juhyunson.github.io"
 
